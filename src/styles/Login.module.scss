@@ -1,0 +1,16 @@
+.login_main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.login_main > *:not(:first-child) {
+  margin-top: 20px;
+}
+.h3 {
+  font-size: 46px;
+  color: white;
+}
+.text {
+  border-color: white !important;
+}
