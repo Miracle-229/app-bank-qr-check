@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import QRCode from 'qrcode.react';
 
 function QR() {
@@ -36,4 +36,5 @@ function QR() {
   );
 }
 
+// eslint-disable-next-line react-refresh/only-export-components
 export default QR;
