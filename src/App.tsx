@@ -6,7 +6,7 @@ import ProtectRouteScan from './context/ProtectedRoute';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/app-bank-qr-check/">
       <Routes>
         {routes.public.map((route) => (
           <Route
