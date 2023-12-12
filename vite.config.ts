@@ -9,5 +9,5 @@ export default defineConfig({
     port: 3000,
     host: '127.0.0.1',
   },
-  base: '/miracle-229.github.io',
+  base: '/test',
 });
