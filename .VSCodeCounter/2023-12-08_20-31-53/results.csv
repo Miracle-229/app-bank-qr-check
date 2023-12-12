@@ -1,0 +1,30 @@
+"filename", "language", "JSON", "JavaScript", "JSON with Comments", "HTML", "TypeScript", "Markdown", "TypeScript JSX", "CSS", "XML", "SCSS", "comment", "blank", "total"
+"d:\work\programming228\web\test\test\.eslintrc.cjs", "JavaScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 59
+"d:\work\programming228\web\test\test\.prettierrc", "JSON", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14
+"d:\work\programming228\web\test\test\README.md", "Markdown", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 0, 9, 32
+"d:\work\programming228\web\test\test\index.html", "HTML", 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 1, 20
+"d:\work\programming228\web\test\test\package-lock.json", "JSON", 9831, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9832
+"d:\work\programming228\web\test\test\package.json", "JSON", 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 44
+"d:\work\programming228\web\test\test\public\tinkoff.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\work\programming228\web\test\test\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\work\programming228\web\test\test\src\App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 37, 0, 0, 0, 6, 43
+"d:\work\programming228\web\test\test\src\App.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 33, 0, 0, 0, 1, 3, 37
+"d:\work\programming228\web\test\test\src\Routes\routes.ts", "TypeScript", 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 3, 30
+"d:\work\programming228\web\test\test\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\work\programming228\web\test\test\src\context\ProtectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 3, 13
+"d:\work\programming228\web\test\test\src\helper\constants.ts", "TypeScript", 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 2, 13
+"d:\work\programming228\web\test\test\src\helper\types.ts", "TypeScript", 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 3, 15
+"d:\work\programming228\web\test\test\src\index.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"d:\work\programming228\web\test\test\src\main.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 2, 11
+"d:\work\programming228\web\test\test\src\pages\Login.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 80, 0, 0, 0, 1, 5, 86
+"d:\work\programming228\web\test\test\src\pages\Qr.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 35, 0, 0, 0, 1, 4, 40
+"d:\work\programming228\web\test\test\src\pages\Registration.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 282, 0, 0, 0, 0, 9, 291
+"d:\work\programming228\web\test\test\src\pages\Scan.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 1, 6, 62
+"d:\work\programming228\web\test\test\src\styles\Login.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 1, 17
+"d:\work\programming228\web\test\test\src\styles\Registration.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 1, 20
+"d:\work\programming228\web\test\test\src\styles\Scan.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 6
+"d:\work\programming228\web\test\test\src\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"d:\work\programming228\web\test\test\tsconfig.json", "JSON with Comments", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 2, 3, 26
+"d:\work\programming228\web\test\test\tsconfig.node.json", "JSON", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11
+"d:\work\programming228\web\test\test\vite.config.ts", "TypeScript", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 2, 2, 13
+"Total", "-", 9898, 52, 21, 19, 59, 23, 504, 42, 3, 40, 16, 68, 10745
